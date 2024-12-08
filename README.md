@@ -27,8 +27,8 @@ I'm a Web Developer
 ---
 
 ### GitHub Stats:
-![Yantokumar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fathir2&show_icons=true&theme=radical)
+![Yantokumar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yantokumar&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fathir2&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yantokumar&layout=compact&theme=radical)
 
 
