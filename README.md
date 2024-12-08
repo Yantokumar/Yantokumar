@@ -4,13 +4,13 @@ I'm a Web Developer
 
 - 🌱 I’m currently learning **Web Developer** with Laravel and React 
 - 💬 Ask me about **PHP, JavaScript, Laravel and React**
-- 📫 How to reach me: edogawafatir@gmail.com
+- 📫 How to reach me: bahrudinyusup825@gmail.com
 
 ---
 
 ### Connect with me:
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/Fathir2) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:edogawafatir@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/Yantokumar) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bahrudinyusup825@gmail.com)
 
 ---
 
