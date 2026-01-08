@@ -9,6 +9,6 @@
 
 ## 📊 GitHub Stats & Streak
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yantokumar&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yantokumar&layout=compact&theme=radical" alt="Top Languages" />
+  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hnif4&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hnif4&layout=compact&langs_count=8&theme=algolia"/>
 </p>
