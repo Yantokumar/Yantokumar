@@ -7,6 +7,11 @@
 ## 🌟 My Skills
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,py,git,github)](#)
 
+## 🧩 Tools I Use Daily
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,discord" />
+</p>
+
 ## 📊 GitHub Stats & Streak
 <p align="center">
   <a href="https://github.com/Yantokumar">
