@@ -11,7 +11,7 @@
 
 ## 🧩 Tools I Use Daily
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,discord" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,discord,canva" />
 </p>
 
 ## 📊 GitHub Stats & Streak
