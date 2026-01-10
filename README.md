@@ -5,7 +5,9 @@
 </div>
 
 ## 🌟 My Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,py,git,github)](#)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,git,github,lua" />
+</p>
 
 ## 🧩 Tools I Use Daily
 <p align="center">
