@@ -22,6 +22,11 @@
   </a>
 </p>
 
+### 🔥 GitHub Streak
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kamilaap&theme=tokyonight&hide_border=false" />
+</p>
+
 ### 🌐 Connect With Me  
 <p align="center">
   <a href="https://github.com/Yantokumar" target="_blank">
