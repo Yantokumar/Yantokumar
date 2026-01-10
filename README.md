@@ -32,10 +32,10 @@
   <a href="https://github.com/Yantokumar" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-21262d?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="mailto:kp.herlambang@gmail.com" target="_blank">
+  <a href="mailto:bahrudinyusup825@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-8b5cf6?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://instagram.com/kamilaputrih" target="_blank">
+  <a href="https://www.instagram.com/yusup_007l?igsh=MTRzNjR4MzJ3MDJqOQ==" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-BF3EFF?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
