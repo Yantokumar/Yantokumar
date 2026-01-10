@@ -22,9 +22,6 @@
   </a>
 </p>
 
-### 🔥 GitHub Streak
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Yantokumar&theme=tokyonight)](https://git.io/streak-stats)
-
 ### 🌐 Connect With Me  
 <p align="center">
   <a href="https://github.com/Yantokumar" target="_blank">
