@@ -27,3 +27,16 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yantokumar&theme=tokyonight&hide_border=false" />
 </p>
 
+### 🌐 Connect With Me  
+<p align="center">
+  <a href="https://github.com/Yantokumar" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-21262d?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:kp.herlambang@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-8b5cf6?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/kamilaputrih" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-BF3EFF?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
+
