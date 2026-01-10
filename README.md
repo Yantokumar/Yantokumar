@@ -18,7 +18,7 @@
 <p align="center">
   <a href="https://github.com/Yantokumar">
     <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Yantokumar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Y&layout=compact&langs_count=8&theme=tokyonight"/>
+    <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Yantokumar&layout=compact&langs_count=8&theme=tokyonight"/>
   </a>
 </p>
 
