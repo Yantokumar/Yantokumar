@@ -27,8 +27,3 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yantokumar&theme=tokyonight&hide_border=false" />
 </p>
 
----
-
-<p align="center">
-  🩵 Frontend Dev ✨ | 🎨 UI Enthusiast | ☕ Coffee over everything | 🌌 Night coder vibes
-</p>
