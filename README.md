@@ -6,7 +6,7 @@
 
 ## 🌟 My Skills
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,py" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,php" />
 </p>
 
 ## 🧩 Tools I Use Daily
