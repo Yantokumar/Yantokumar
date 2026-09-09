@@ -42,7 +42,7 @@ motto: "Transforming ideas into interactive digital reality."
 - 🎓 **Education**: Mahasiswa **Sistem Informasi** di **Universitas Pamulang**.
 - 💻 **Field of Interest**: Pengembangan perangkat lunak (*Software Development*), manajemen basis data, dan sistem informasi berbasis web.
 - 🚀 **What I Do**: Merancang dan mengembangkan aplikasi dengan struktur kode yang bersih, efisien, dan ramah pengguna.
-- 🛠️ **Featured Works**: Katalog pemesanan online (**Jajan-yuks**), platform pustaka anime (**Animelib**), dan portofolio interaktif (**Porto v2**).
+- 🛠️ **Featured Works**: Katalog pemesanan online (**Jajan-yuks**), platform pustaka anime (**Animelib**), dan portofolio interaktif (**Bahrudin Yusup Caruban**).
 - ⚡ **Beyond Code**: Anime enthusiast, eksplorasi teknologi baru, dan gemar memecahkan masalah komputasi.
 
 ---
@@ -103,15 +103,17 @@ motto: "Transforming ideas into interactive digital reality."
   </tr>
   <tr>
     <td colspan="2" valign="top">
-      <h3 align="center">🌐 Interactive Portfolio v2</h3>
+      <h3 align="center">🌐 Personal Portfolio Website</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/Modern_UI-8A2BE2?style=flat-square&logo=css3&logoColor=white" />
+        <img src="https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+        <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" />
       </p>
-      <p align="center">Website portofolio interaktif yang merangkum perjalanan belajar pemrograman, showcase proyek, serta tautan media sosial.</p>
+      <p align="center">Website portofolio interaktif modern yang dibangun dengan React 19, TypeScript, Tailwind CSS, dan animasi dinamis Framer Motion untuk menampilkan karya, keahlian, serta profil profesional.</p>
       <p align="center">
-        <a href="https://github.com/Yantokumar/portov2"><b>View Repository ➜</b></a>
+        <a href="https://github.com/Yantokumar/bahrudinyusupcaruban"><b>View Repository ➜</b></a>
       </p>
     </td>
   </tr>
