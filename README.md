@@ -37,7 +37,7 @@ origin: Jambi, Indonesia 🇮🇩
 interests: [Software Development, Web Systems, Database Management, Anime]
 current_focus: Building reliable software solutions & continuous learning
 motto: "Transforming ideas into interactive digital reality."
-
+```
 ### 🛠️ Tech Stack & Skills
 
 #### 💻 Programming & Scripting Languages
