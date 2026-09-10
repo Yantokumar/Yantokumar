@@ -37,15 +37,6 @@ origin: Jambi, Indonesia 🇮🇩
 interests: [Software Development, Web Systems, Database Management, Anime]
 current_focus: Building reliable software solutions & continuous learning
 motto: "Transforming ideas into interactive digital reality."
-```
-
-- 🎓 **Education**: Mahasiswa **Sistem Informasi** di **Universitas Pamulang**.
-- 💻 **Field of Interest**: Pengembangan perangkat lunak (*Software Development*), manajemen basis data, dan sistem informasi berbasis web.
-- 🚀 **What I Do**: Merancang dan mengembangkan aplikasi dengan struktur kode yang bersih, efisien, dan ramah pengguna.
-- 🛠️ **Featured Works**: Katalog pemesanan online (**Jajan-yuks**), platform pustaka anime (**Animelib**), dan portofolio interaktif (**Bahrudin Yusup Caruban**).
-- ⚡ **Beyond Code**: Anime enthusiast, eksplorasi teknologi baru, dan gemar memecahkan masalah komputasi.
-
----
 
 ### 🛠️ Tech Stack & Skills
 
