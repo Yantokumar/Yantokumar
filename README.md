@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=12c2e9,ff595e,ffbe0b,ffe66d&amp;height=200&amp;section=header&amp;text=Bahrudin%20Yusup%20Caruban&amp;fontSize=42&amp;fontAlignY=36&amp;desc=Information%20Systems%20Student%20%7C%20Network%20Engineer%20%26%20SOC%20Analyst&amp;descAlignY=58&amp;descSize=18&amp;fontColor=ffffff" width="100%" alt="Header Banner" />
-</p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
