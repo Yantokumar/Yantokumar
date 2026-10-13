@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21,31&height=200&section=header&text=Bahrudin%20Yusup%20Caruban&fontSize=42&fontAlignY=36&desc=Information%20Systems%20Student%20%7C%20Software%20Developer&descAlignY=58&descSize=18&fontColor=ffffff" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21,31&height=200&section=header&text=Bahrudin%20Yusup%20Caruban&fontSize=42&fontAlignY=36&desc=Information%20Systems%20Student%20%7C%20Network%20Engineer%20%26%20SOC%20Analyst&descAlignY=58&descSize=18&fontColor=ffffff" width="100%" alt="Header Banner" />
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F2FE&center=true&vCenter=true&width=650&lines=%F0%9F%91%8B+Hi+there!+I'm+Bahrudin+Yusup+Caruban;%F0%9F%8E%93+Information+Systems+Student+UNPAM;%F0%9F%92%BB+Software+Developer;%E2%9C%A8+Passionate+about+building+impactful+software;%F0%9F%8E%A8+Welcome+to+my+GitHub+universe!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F2FE&center=true&vCenter=true&width=650&lines=%F0%9F%91%8B+Hi+there!+I'm+Bahrudin+Yusup+Caruban;%F0%9F%8E%93+Information+Systems+Student+%40+UNPAM;%F0%9F%92%BB+Network+Engineer+%26+SOC+Analyst;%E2%9C%A8+Passionate+about+network+security+and+infrastructure;%F0%9F%8E%A8+Welcome+to+my+GitHub+universe!" alt="Typing SVG" />
   </a>
 </p>
 
@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Universitas_Pamulang-0A2540?style=for-the-badge&logo=mortarboard&logoColor=00D2FF" alt="University" />
   </a>
   <img src="https://img.shields.io/badge/Major-Sistem_Informasi-00529B?style=for-the-badge&logo=codeforces&logoColor=white" alt="Major" />
-  <img src="https://img.shields.io/badge/Role-Software_Developer-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=00F2FE" alt="Role" />
+  <img src="https://img.shields.io/badge/Role-Network_Engineer-0D1117?style=for-the-badge&logo=cisco&logoColor=00F2FE" alt="Role" />
   <img src="https://img.shields.io/badge/Location-Jambi%2C_Indonesia-161B22?style=for-the-badge&logo=googlemaps&logoColor=FF4B4B" alt="Location" />
   <a href="mailto:bahrudinyusup825@gmail.com">
     <img src="https://img.shields.io/badge/Email_Me-bahrudinyusup825@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
@@ -32,33 +32,42 @@
 name: Bahrudin Yusup Caruban (Yantokumar)
 major: Sistem Informasi (Information Systems)
 institution: Universitas Pamulang
-role: Software Developer
+role: Network Engineer & SOC Analyst
 origin: Jambi, Indonesia 🇮🇩
-interests: [Software Development, Web Systems, Database Management, Anime]
-current_focus: Building reliable software solutions & continuous learning
-motto: "Transforming ideas into interactive digital reality."
+interests: [Network Administration, Cybersecurity, SOC Operations, IT Infrastructure, Troubleshooting]
+current_focus: Securing networks and building reliable digital infrastructure
+motto: "Ensuring connectivity and security in every packet."
 ```
+
+- 🎓 **Education**: Mahasiswa **Sistem Informasi** di **Universitas Pamulang**.
+- 🌐 **Field of Interest**: Administrasi jaringan (*Network Administration*), operasi pusat keamanan siber (*SOC Operations*), dan dukungan infrastruktur IT (*IT Support*).
+- 🚀 **What I Do**: Mengelola topologi jaringan, melakukan pemantauan keamanan (SOC), dan memberikan dukungan teknis untuk sistem infrastruktur.
+- 🛠️ **Featured Works**: Proyek simulasi jaringan dan dokumentasi operasional infrastruktur jaringan.
+- ⚡ **Beyond Code**: Eksplorasi teknologi jaringan baru, analisis protokol keamanan, dan hobi komputasi.
+
+---
+
 ### 🛠️ Tech Stack & Skills
 
-#### 💻 Programming & Scripting Languages
+#### 🌐 Network Administration
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,php&theme=dark" alt="Programming Languages" />
-  </a>
+  <img src="https://img.shields.io/badge/Cisco-045FB4?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1F1F1F?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/pfSense-0066CC?style=for-the-badge&logo=pfsense&logoColor=white" />
 </p>
 
-#### 🌐 Frameworks & Libraries
+#### 🛡️ Security Operations & Monitoring
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,vue,laravel,tailwind,bootstrap,vite&theme=dark" alt="Frameworks and Libraries" />
-  </a>
+  <img src="https://img.shields.io/badge/SOC-2E8B57?style=for-the-badge&logo=securityscorecard&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
 </p>
 
-#### 🧰 Databases, DevOps & Tools
+#### 🖥️ Infrastructure & Tools
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,vscode,docker,linux,postman&theme=dark" alt="Databases and Tools" />
-  </a>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---
@@ -68,44 +77,18 @@ motto: "Transforming ideas into interactive digital reality."
 <table align="center" width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🛍️ Jajan-Yuks</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-        <img src="https://img.shields.io/badge/Web_App-FF6B6B?style=flat-square&logo=googlechrome&logoColor=white" />
-      </p>
-      <p>Platform katalog dan pemesanan makanan/jajanan interaktif dengan alur pengguna yang intuitif, tata letak responsif, dan pengelolaan data yang rapi.</p>
-      <p align="center">
-        <a href="https://github.com/Yantokumar/Jajan-yuks-kaka"><b>View Repository ➜</b></a>
-      </p>
+      <h3 align="center">🌐 Network Topology Design</h3>
+      <p>Simulasi jaringan skala enterprise menggunakan Cisco Packet Tracer mencakup VLAN, routing OSPF, dan konfigurasi firewall.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🎬 Animelib</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
-        <img src="https://img.shields.io/badge/REST_API-009688?style=flat-square&logo=fastapi&logoColor=white" />
-      </p>
-      <p>Aplikasi web katalog dan penjelajah anime interaktif dengan integrasi REST API, fitur pencarian dinamis, dan pengalaman antarmuka yang mulus.</p>
-      <p align="center">
-        <a href="https://github.com/Yantokumar/animelib2"><b>View Repository ➜</b></a>
-      </p>
+      <h3 align="center">🛡️ SOC Monitoring Lab</h3>
+      <p>Lab eksperimen untuk deteksi ancaman dan analisis log menggunakan tools open-source untuk memantau lalu lintas jaringan.</p>
     </td>
   </tr>
   <tr>
     <td colspan="2" valign="top">
-      <h3 align="center">🌐 Personal Portfolio Website</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
-        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-        <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" />
-      </p>
-      <p align="center">Website portofolio interaktif modern yang dibangun dengan React 19, TypeScript, Tailwind CSS, dan animasi dinamis Framer Motion untuk menampilkan karya, keahlian, serta profil profesional.</p>
-      <p align="center">
-        <a href="https://github.com/Yantokumar/bahrudinyusupcaruban"><b>View Repository ➜</b></a>
-      </p>
+      <h3 align="center">🖥️ IT Support Procedures</h3>
+      <p align="center">Koleksi dokumentasi teknis, SOP troubleshooting perangkat, dan manajemen sistem operasi untuk efisiensi dukungan IT.</p>
     </td>
   </tr>
 </table>
