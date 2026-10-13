@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12c2e9,ff595e,ffbe0b,ffe66d&height=200&section=header&text=Bahrudin%20Yusup%20Caruban&fontSize=42&fontAlignY=36&desc=Information%20Systems%20Student%20%7C%20Network%20Engineer%20%26%20SOC%20Analyst&descAlignY=58&descSize=18&fontColor=ffffff" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=12c2e9,ff595e,ffbe0b,ffe66d&amp;height=200&amp;section=header&amp;text=Bahrudin%20Yusup%20Caruban&amp;fontSize=42&amp;fontAlignY=36&amp;desc=Information%20Systems%20Student%20%7C%20Network%20Engineer%20%26%20SOC%20Analyst&amp;descAlignY=58&amp;descSize=18&amp;fontColor=ffffff" width="100%" alt="Header Banner" />
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F2FE&center=true&vCenter=true&width=650&lines=%F0%9F%91%8B+Hi+there!+I'm+Bahrudin+Yusup+Caruban;%F0%9F%8E%93+Information+Systems+Student+%40+UNPAM;%F0%9F%92%BB+Network+Engineer+%26+SOC+Analyst;%E2%9C%A8+Passionate+about+network+security+and+infrastructure;%F0%9F%8E%A8+Welcome+to+my+GitHub+universe!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=24&amp;pause=1000&amp;color=00F2FE&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=%F0%9F%91%8B+Hi+there!+I'm+Bahrudin+Yusup+Caruban;%F0%9F%8E%93+Information+Systems+Student+%40+UNPAM;%F0%9F%92%BB+Network+Engineer+%26+SOC+Analyst;%E2%9C%A8+Passionate+about+network+security+and+infrastructure;%F0%9F%8E%A8+Welcome+to+my+GitHub+universe!" alt="Typing SVG" />
   </a>
 </p>
 
@@ -98,12 +98,12 @@ motto: "Ensuring connectivity and security in every packet."
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Yantokumar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F2FE&icon_color=00F2FE&text_color=c0caf5&include_all_commits=true&count_private=true" alt="GitHub Stats" height="175" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Yantokumar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F2FE&text_color=c0caf5&langs_count=8" alt="Top Languages" height="175" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Yantokumar&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=00F2FE&amp;icon_color=00F2FE&amp;text_color=c0caf5&amp;include_all_commits=true&amp;count_private=true" alt="GitHub Stats" height="175" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Yantokumar&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=00F2FE&amp;text_color=c0caf5&amp;langs_count=8" alt="Top Languages" height="175" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Yantokumar&theme=tokyonight&hide_border=true&background=0D1117&ring=00F2FE&fire=00F2FE&currStreakLabel=00F2FE" alt="GitHub Streak" height="175" />
+  <img src="https://streak-stats.demolab.com/?user=Yantokumar&amp;theme=tokyonight&amp;hide_border=true&amp;background=0D1117&amp;ring=00F2FE&amp;fire=00F2FE&amp;currStreakLabel=00F2FE" alt="GitHub Streak" height="175" />
 </p>
 
 ---
@@ -125,9 +125,9 @@ motto: "Ensuring connectivity and security in every packet."
 ---
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=tokyonight" alt="Dev Quote" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12c2e9,ff595e,ffbe0b,ffe66d&height=100&section=footer" width="100%" alt="Footer Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=12c2e9,ff595e,ffbe0b,ffe66d&amp;height=100&amp;section=footer" width="100%" alt="Footer Banner" />
 </p>
