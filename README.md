@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21,31&height=200&section=header&text=Bahrudin%20Yusup%20Caruban&fontSize=42&fontAlignY=36&desc=Information%20Systems%20Student%20%7C%20Network%20Engineer%20%26%20SOC%20Analyst&descAlignY=58&descSize=18&fontColor=ffffff" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12c2e9,ff595e,ffbe0b,ffe66d&height=200&section=header&text=Bahrudin%20Yusup%20Caruban&fontSize=42&fontAlignY=36&desc=Information%20Systems%20Student%20%7C%20Network%20Engineer%20%26%20SOC%20Analyst&descAlignY=58&descSize=18&fontColor=ffffff" width="100%" alt="Header Banner" />
 </p>
 
 <p align="center">
@@ -129,5 +129,5 @@ motto: "Ensuring connectivity and security in every packet."
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21,31&height=100&section=footer" width="100%" alt="Footer Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12c2e9,ff595e,ffbe0b,ffe66d&height=100&section=footer" width="100%" alt="Footer Banner" />
 </p>
